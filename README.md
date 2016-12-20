@@ -8,3 +8,5 @@ Tavoitteena on:
 - osata luoda tietokanta (jollain yleisesti käytettävissä olevalla tietokantaohjelmistolla)
 - osata käyttää tietokantaa (hakea tietoa tietokannasta) ja 
 - osata SQL-kielen perusteet.
+
+Tarkemmat tiedot wikissä: https://github.com/JAMK-IT/TTZC0800-Tietokannat/wiki
